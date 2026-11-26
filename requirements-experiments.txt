@@ -1,0 +1,8 @@
+-r requirements.txt
+numpy
+seaborn
+torch
+transformers<5
+datasets
+accelerate
+tensorflow

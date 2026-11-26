@@ -1,0 +1,7 @@
+convokit
+pandas
+scikit-learn
+spacy
+nltk
+matplotlib
+joblib
